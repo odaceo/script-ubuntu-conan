@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-CMAKE_VERSION=${1:-'0.18.1'}
+CMAKE_VERSION=${1:-'0.24.0'}
 CMAKE_UNDERSCORED_VERSION=${CMAKE_VERSION//./_}
 
 # Download the ubuntu/debian package
